@@ -8,7 +8,7 @@
 | Дата | Тема | Лекция | Практика| Практика (решения) |
 |-----|-----|----------|---------|-------------|
 |12 дек|Введение и основные задачи| [Lecture 1](lectures/Lecture1_intro.pdf) | [Seminar 1](practicals/sem_1_empty.ipynb) | [Seminar 1](practicals/sem_1_full.ipynb) |
-|19 дек|Линейная регрессия| | [Seminar 2](practicals/sem_2_empty.ipynb) || 
+|19 дек|Линейная регрессия| [Lecture 2](lectures/Lecture2_lr.pdf) | [Seminar 2](practicals/sem_2_empty.ipynb) | [Seminar 2](practicals/sem_2_full.ipynb)| 
 |26 дек|Градиентные методы обучения||||
 |16 янв|Линейная классификация и метрики качества классификации||||
 |23 янв|Логистическая регрессия и SVM||||

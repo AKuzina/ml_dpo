@@ -35,7 +35,7 @@
 |----------------|---------|---------|-------------|
 | 19.12.2020     |[HW 1](https://github.com/AKuzina/ml_dpo/tree/main/hw/hw1)| 31.12.2020 23:30| Загрузить ноутбук в Anytask|
 | 27.12.2020     |[HW 2](https://github.com/AKuzina/ml_dpo/tree/main/hw/hw2)| 17.01.2021 23:59| Загрузить ноутбук в Anytask|
-| 27.01.2021     |[HW 3](https://github.com/AKuzina/ml_dpo/tree/main/hw/hw3)| 11.02.2021 23:59 | Загрузить ноутбук в Anytask|
+| 27.01.2021     |[HW 3](https://github.com/AKuzina/ml_dpo/tree/main/hw/hw3)| 11.02.2021 23:30 | Загрузить ноутбук в Anytask|
 
 
 

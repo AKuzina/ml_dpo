@@ -10,9 +10,9 @@
 |12 дек|Введение и основные задачи| [Lecture 1](lectures/Lecture1_intro.pdf) | [Seminar 1](practicals/sem_1_empty.ipynb) | [Seminar 1](practicals/sem_1_full.ipynb) |
 |19 дек|Линейная регрессия| [Lecture 2](lectures/Lecture2_lr.pdf) | [Seminar 2](practicals/sem_2_empty.ipynb) | [Seminar 2](practicals/sem_2_full.ipynb)| 
 |26 дек|Градиентные методы обучения| [Lecture 3](lectures/Lecture3_gd.pdf) | [Seminar 3](practicals/sem_3_empty.ipynb) |[Seminar 3](practicals/sem_3_full.ipynb)| 
-|16 янв|Линейная классификация и метрики качества классификации||[Seminar 4](practicals/sem_4_empty.ipynb)|[Seminar 4](practicals/sem_4_full.ipynb)|
+|16 янв|Линейная классификация и метрики качества классификации|  [Lecture 4](lectures/Lecture4-linclass.pdf) |[Seminar 4](practicals/sem_4_empty.ipynb)|[Seminar 4](practicals/sem_4_full.ipynb)|
 |23 янв|Логистическая регрессия и SVM|[Lecture 5](lectures/Lecture5_svm.pdf) |[Seminar 5](practicals/sem_5_empty.ipynb)|[Seminar 5](practicals/sem_5_full.ipynb)|
-|30 янв|Многоклассовая классификация, работа с категориальными признаками и текстами||||
+|30 янв|Многоклассовая классификация, работа с категориальными признаками и текстами|  [Lecture 6](lectures/Lecture6-multiclass.pdf) |[Seminar 6](practicals/sem_6_empty.ipynb)||
 |06 фев|Решающие деревья||||
 |13 фев|Бэггинг и случайные леса||||
 |27 фев|Градиентный бустинг||||

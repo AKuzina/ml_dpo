@@ -13,8 +13,8 @@
 |16 янв|Линейная классификация и метрики качества классификации|  [Lecture 4](lectures/Lecture4-linclass.pdf) |[Seminar 4](practicals/sem_4_empty.ipynb)|[Seminar 4](practicals/sem_4_full.ipynb)|
 |23 янв|Логистическая регрессия и SVM|[Lecture 5](lectures/Lecture5_svm.pdf) |[Seminar 5](practicals/sem_5_empty.ipynb)|[Seminar 5](practicals/sem_5_full.ipynb)|
 |30 янв|Многоклассовая классификация, работа с категориальными признаками и текстами|  [Lecture 6](lectures/Lecture6-multiclass.pdf) |[Seminar 6](practicals/sem_6_empty.ipynb)||
-|06 фев|Решающие деревья||||
-|13 фев|Бэггинг и случайные леса||||
+|06 фев|Решающие деревья|[Lecture 7](lectures/Lecture7_trees.pdf)| [Seminar 7](practicals/sem_7_empty.ipynb)|[Seminar 7](practicals/sem_7_full.ipynb)|
+|13 фев|Бэггинг и случайные леса|[Lecture 8](lectures/Lecture8_ensembles.pdf)|||
 |27 фев|Градиентный бустинг||||
 |13 мар|Градиентный бустинг: имплементации||||
 |20 мар|Отбор признаков и понижение размерности||||
@@ -36,7 +36,7 @@
 | 19.12.2020     |[HW 1](https://github.com/AKuzina/ml_dpo/tree/main/hw/hw1)| 31.12.2020 23:30| Загрузить ноутбук в Anytask|
 | 27.12.2020     |[HW 2](https://github.com/AKuzina/ml_dpo/tree/main/hw/hw2)| 17.01.2021 23:59| Загрузить ноутбук в Anytask|
 | 27.01.2021     |[HW 3](https://github.com/AKuzina/ml_dpo/tree/main/hw/hw3)| 11.02.2021 23:30 | Загрузить ноутбук в Anytask|
-
+| 20.02.2021     |[HW 4](https://github.com/AKuzina/ml_dpo/tree/main/hw/hw4)| 07.03.2021 23:30 | Загрузить ноутбук в Anytask|
 
 
 

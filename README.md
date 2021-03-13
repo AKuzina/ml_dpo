@@ -16,7 +16,7 @@
 |06 фев|Решающие деревья|[Lecture 7](lectures/Lecture7_trees.pdf)| [Seminar 7](practicals/sem_7_empty.ipynb)|[Seminar 7](practicals/sem_7_full.ipynb)|
 |13 фев|Бэггинг и случайные леса|[Lecture 8](lectures/Lecture8_ensembles.pdf)|||
 |27 фев|Градиентный бустинг||||
-|13 мар|Градиентный бустинг: имплементации|[Lecture 10](lectures/Lecture10_gb_2.pdf)| [Seminar 10](practicals/sem_10_empty.ipynb)|[Seminar 10](practicals/sem_10_full.ipynb|
+|13 мар|Градиентный бустинг: имплементации|[Lecture 10](lectures/Lecture10_gb_2.pdf)| [Seminar 10](practicals/sem_10_empty.ipynb)|[Seminar 10](practicals/sem_10_full.ipynb)|
 |20 мар|Отбор признаков и понижение размерности||||
 |27 мар|Кластеризация||||
 |03 апр|Поиск аномалий||||

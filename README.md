@@ -17,8 +17,8 @@
 |13 фев|Бэггинг и случайные леса|[Lecture 8](lectures/Lecture8_ensembles.pdf)|||
 |27 фев|Градиентный бустинг||||
 |13 мар|Градиентный бустинг: имплементации|[Lecture 10](lectures/Lecture10_gb_2.pdf)| [Seminar 10](practicals/sem_10_empty.ipynb)|[Seminar 10](practicals/sem_10_full.ipynb)|
-|20 мар|Отбор признаков и понижение размерности||||
-|27 мар|Кластеризация||||
+|20 мар|Отбор признаков и понижение размерности|[Lecture 11](lectures/Lecture11_dimred.pdf)| [Seminar 11](practicals/sem_11_empty.ipynb)|[Seminar 11](practicals/sem_11_full.ipynb)|
+|27 мар|Кластеризация|[Lecture 12](lectures/Lecture12_clustering.pdf)||[Seminar 12](practicals/sem_12_full.ipynb)|
 |03 апр|Поиск аномалий||||
 |10 апр|Рекомендательные системы||||
 |17 апр|Ранжирование||||
@@ -37,7 +37,7 @@
 | 27.12.2020     |[HW 2](https://github.com/AKuzina/ml_dpo/tree/main/hw/hw2)| 17.01.2021 23:59| Загрузить ноутбук в Anytask|
 | 27.01.2021     |[HW 3](https://github.com/AKuzina/ml_dpo/tree/main/hw/hw3)| 11.02.2021 23:30 | Загрузить ноутбук в Anytask|
 | 20.02.2021     |[HW 4](https://github.com/AKuzina/ml_dpo/tree/main/hw/hw4)| 07.03.2021 23:30 | Загрузить ноутбук в Anytask|
-
+| 2.04.2021     |[HW 5](https://github.com/AKuzina/ml_dpo/tree/main/hw/hw5)| 16.04.2021 23:30 | Загрузить ноутбук в Anytask|
 
 
 ## Полезные ссылки

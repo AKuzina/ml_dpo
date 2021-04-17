@@ -21,7 +21,7 @@
 |27 мар|Кластеризация|[Lecture 12](lectures/Lecture12_cluster.pdf)||[Seminar 12](practicals/sem_12_full.ipynb)|
 |03 апр|Поиск аномалий|[Lecture 13](lectures/Lecture13_anomaly.pdf)|[Seminar 13](practicals/sem_13_empty.ipynb)|[Seminar 13](practicals/sem_13_full.ipynb)|
 |10 апр|Рекомендательные системы||||
-|17 апр|Ранжирование||||
+|17 апр|Ранжирование|[Lecture 15](lectures/Lecture15_ranking.pdf)|[Seminar 15](practicals/sem_15_empty.ipynb)|[Seminar 15](practicals/sem_15_full.ipynb)|
 |24 апр|Заключение||||
 
 

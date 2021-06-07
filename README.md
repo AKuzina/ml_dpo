@@ -14,8 +14,8 @@
 |23 янв|Логистическая регрессия и SVM|[Lecture 5](lectures/Lecture5_svm.pdf) |[Seminar 5](practicals/sem_5_empty.ipynb)|[Seminar 5](practicals/sem_5_full.ipynb)|
 |30 янв|Многоклассовая классификация, работа с категориальными признаками и текстами|  [Lecture 6](lectures/Lecture6-multiclass.pdf) |[Seminar 6](practicals/sem_6_empty.ipynb)||
 |06 фев|Решающие деревья|[Lecture 7](lectures/Lecture7_trees.pdf)| [Seminar 7](practicals/sem_7_empty.ipynb)|[Seminar 7](practicals/sem_7_full.ipynb)|
-|13 фев|Бэггинг и случайные леса|[Lecture 8](lectures/Lecture8_ensembles.pdf)|||
-|27 фев|Градиентный бустинг||||
+|13 фев|Бэггинг и случайные леса|[Lecture 8](lectures/Lecture8_ensembles.pdf)||[Seminar 8](practicals/sem_8_full.ipynb)|
+|27 фев|Градиентный бустинг|[Lecture 9](lectures/Lecture9_gradboost.pdf)||[Seminar 9](practicals/sem_9_full.ipynb)|
 |13 мар|Градиентный бустинг: имплементации|[Lecture 10](lectures/Lecture10_gb_part2.pdf)| [Seminar 10](practicals/sem_10_empty.ipynb)|[Seminar 10](practicals/sem_10_full.ipynb)|
 |20 мар|Отбор признаков и понижение размерности|[Lecture 11](lectures/Lecture11_dim_red.pdf)| [Seminar 11](practicals/sem_11_empty.ipynb)|[Seminar 11](practicals/sem_11_full.ipynb)|
 |27 мар|Кластеризация|[Lecture 12](lectures/Lecture12_cluster.pdf)||[Seminar 12](practicals/sem_12_full.ipynb)|
